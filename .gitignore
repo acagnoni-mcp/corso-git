@@ -1,0 +1,6 @@
+#Folders
+temp
+
+#Files
+*.log
+!debug.log
